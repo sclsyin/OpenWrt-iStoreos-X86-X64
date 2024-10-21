@@ -1,4 +1,4 @@
-name: Build X86_64 Version OpenWrt Hellowod
+name: Build X86_64 Version OpenWrt iStoreos
 
 on:
   repository_dispatch:
